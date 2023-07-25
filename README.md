@@ -1,6 +1,6 @@
 # Many-Segments-Intersection-Problem-with-AVL-Tree-in-Cpp
 
-This program detects if any two intersect given a collection of line segments. We implement the sweep line algorithm and an AVL Tree to solve the problem.
+This program detects if any two intersect given a collection of line segments. We implement the sweep line algorithm and a generic AVL Tree in C++ to solve the problem.
 
 Input
 
